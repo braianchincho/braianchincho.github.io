@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/about-me/about-me.component.scss"],
+  "sourcesContent": [":host {\r\n  background-color: var(--background-color);\r\n  color: var(--text-color);\r\n}\r\n\r\n.avatar {\r\n    max-width: 23rem;\r\n    max-height: 23rem;\r\n}\r\n\r\n.aboutme-container {\r\n    min-height: 30rem;\r\n}"],
+  "mappings": "AAAA,MACE,iBAAA,IAAA,oBACA,MAAA,IAAA,cAGF,CAAA,OACI,UAAA,MACA,WAAA,MAGJ,CAAA,kBACI,WAAA",
+  "names": []
+}

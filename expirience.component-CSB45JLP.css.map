@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/components/expirience/expirience.component.scss"],
+  "sourcesContent": [":host {\r\n  background-color: var(--background-color);\r\n  color: var(--text-color);\r\n}\r\n\r\n.experience-card {\r\n  transition: transform 0.3s ease, box-shadow 0.3s ease;\r\n}\r\n\r\n.experience-card:hover {\r\n    transform: translateY(-1rem) scale(1.03); \r\n    z-index: 100;\r\n    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;\r\n}"],
+  "mappings": "AAAA,MACE,iBAAA,IAAA,oBACA,MAAA,IAAA,cAGF,CAAA,gBACE,WAAA,UAAA,IAAA,IAAA,CAAA,WAAA,IAAA,KAGF,CAJA,eAIA,OACI,UAAA,WAAA,OAAA,MAAA,MACA,QAAA,IACA,WAAA,EAAA,MAAA,KAAA",
+  "names": []
+}
