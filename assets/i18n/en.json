@@ -10,9 +10,9 @@
   "LANG.ES": "Spanish",
   "SKILLS.TITLE": "Skills",
   "EXPERIENCE.TITLE": "Experience",
-  "EXPERIENCE.DESCRIPTION.EPAM": "Migration and modernization of Thomson Reuters' project management back-office platform for USA Projects.\nC#, ASP.NET core, Postgresql, Angular 18,RxJS, Stencil.js",
-  "EXPERIENCE.DESCRIPTION.VATES": "Migration and modernization of Thomson Reuters' project management back-office platform, for teams in Argentina and the United States.\nC#, ASP.NET core, Angular, Entity Framework, Postgresql",
-  "EXPERIENCE.DESCRIPTION.BIZIT": "Development of a back-office platform for aEuropean healthcare company.\nAngular, TypeScript, RxJS, Jasmine, Karma, Protractor,Java, Spring Boot",
-  "EXPERIENCE.DESCRIPTION.KOLEKTOR": "Development of a web-based tax inquiry and collection system for the province of Córdoba, Argentina.\nAngular 7, Java, Spring Boot, MySQL",
-  "EXPERIENCE.DESCRIPTION.MCAFEE": "I contributed to a project responsible for maintaining whitelist-based security software.\nPython, Django REST Framework, HTML, CSS, Bash, AngularJS, Bootstrap"
+  "EXPERIENCE.DESCRIPTION.EPAM": "Migration and modernization of Thomson Reuters' project management back-office platform for USA Projects.",
+  "EXPERIENCE.DESCRIPTION.VATES": "Migration and modernization of Thomson Reuters' project management back-office platform, for teams in Argentina and the United States.",
+  "EXPERIENCE.DESCRIPTION.BIZIT": "Development of a back-office platform for aEuropean healthcare company.",
+  "EXPERIENCE.DESCRIPTION.KOLEKTOR": "Development of a web-based tax inquiry and collection system for the province of Córdoba, Argentina.",
+  "EXPERIENCE.DESCRIPTION.MCAFEE": "I contributed to a project responsible for maintaining whitelist-based security software."
 }

@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["src/app/app.component.scss"],
-  "sourcesContent": ["section {\r\n  margin-top: 2rem;\r\n  margin-bottom: 2rem;\r\n}\r\n\r\n#main-section {\r\n  margin-top: 6rem;\r\n}"],
-  "mappings": "AAAA,QACE,WAAA,KACA,cAAA,KAGF,CAAA,aACE,WAAA",
-  "names": []
-}
